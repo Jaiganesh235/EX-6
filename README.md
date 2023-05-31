@@ -50,8 +50,11 @@ while True:
  ```
 
 ## OUTPUT :
+### CLIENT:
+![image](https://github.com/Jaiganesh235/EX-6/assets/118657189/0bca9187-6ca4-4dcc-b6e9-541cb427749a)
 
-
+### SERVER:
+![image](https://github.com/Jaiganesh235/EX-6/assets/118657189/336bdd28-8b4e-4ac8-8656-c86659142aff)
 
 ## RESULT :
 Thus, the python program for simulating ping command was successfully executed.
